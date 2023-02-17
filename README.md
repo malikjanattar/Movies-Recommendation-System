@@ -11,7 +11,9 @@ Created a web page for popularity based recommendation system. the system will r
  `Demo`
 
 
-eeeeeeeeeeeeeeeeeeeee
+https://user-images.githubusercontent.com/114000175/219580963-479dac49-ac93-4029-8117-1d423b2a2cdb.mp4
+
+
 ## Context
 
 Over  the  past  two  decades,  there  has  been  a  monumental  shift  in  how  people  access  and consume video content. With the universal access to broadband internet, numerous platforms like YouTube, Netflix, and HBO Go emerged and steadily grew to prominence.
@@ -46,8 +48,7 @@ Popularity-based filtering is a type of recommendation algorithm that suggests i
 Created a popularity-based recommender system at a genre level. The user will input a genre for a movie for which it will recommend top 5 movies which are most popular within that genre ordered by ratings in descending order where each movie has at least 100 reviews.
 
 
-eeeeeeeeeeeeeeeeee
-
+![popular-movies](https://user-images.githubusercontent.com/114000175/219581094-55b8cc64-1233-4191-ab04-5ae94489cb20.gif)
 
 - `Content Based Recommendation System`
 
@@ -55,7 +56,7 @@ Content-based filtering is a type of recommendation algorithm that suggests item
 
 Created a content-based recommender system that recommends top 5 movies based on similar movie.
 
-eeeeeeeeeeeeeeeeeeeeeeeeee
+![content-movie](https://user-images.githubusercontent.com/114000175/219581210-a1b0c3f0-aa12-4ece-b7e2-0e472e57a624.gif)
 
 - `Collaborative Based recommendation system`
 
@@ -63,7 +64,8 @@ Collaborative filtering is a type of recommendation algorithm that suggests item
 
 Created a collaborative based recommender system which recommends top 5 movies based on similar users for a target user.
 
-eeeeeeeeeeeeeeeeeeeeeeeeeeee
+![colabrative-movies](https://user-images.githubusercontent.com/114000175/219581308-09ad87b7-8ca1-41a9-b0bb-ec49fde4b2dd.gif)
+
 ## File Structure
 - gitignore file
 - app.py file
